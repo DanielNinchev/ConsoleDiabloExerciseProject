@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcnCDv+ScqMib9bZLShS6WQXvpImojB2nMSoFGFtJSOK93s+u41BdqmtNcCoGEq6MLBAi5C6R1T3ZUIYlDr/Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ConsoleDiablo\\ConsoleDiablo.App\\ConsoleDiablo.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Diablo2Project\Diablo2Project\obj\Debug\netcoreapp3.1\ConsoleDiablo.App.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Diablo2Project\Diablo2Project\obj\Debug\netcoreapp3.1\ConsoleDiablo.App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Diablo2Project\Diablo2Project\obj\Debug\netcoreapp3.1\ConsoleDiablo.App.AssemblyInfo.cs
+C:\Users\User\source\repos\Diablo2Project\Diablo2Project\obj\Debug\netcoreapp3.1\ConsoleDiablo.App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleDiablo\ConsoleDiablo.App\obj\Debug\netcoreapp3.1\ConsoleDiablo.App.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleDiablo\ConsoleDiablo.App\obj\Debug\netcoreapp3.1\ConsoleDiablo.App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleDiablo\ConsoleDiablo.App\obj\Debug\netcoreapp3.1\ConsoleDiablo.App.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleDiablo\ConsoleDiablo.App\obj\Debug\netcoreapp3.1\ConsoleDiablo.App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleDiablo\ConsoleDiablo.App\bin\Debug\netcoreapp3.1\ConsoleDiablo.DataModels.dll
