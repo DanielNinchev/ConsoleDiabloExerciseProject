@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\ConsoleDiablo\ConsoleDiablo.Data\obj\Debug\netcoreapp3.1\ConsoleDiablo.Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleDiablo\ConsoleDiablo.Data\obj\Debug\netcoreapp3.1\ConsoleDiablo.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleDiablo\ConsoleDiablo.Data\obj\Debug\netcoreapp3.1\ConsoleDiablo.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleDiablo\ConsoleDiablo.Data\obj\Debug\netcoreapp3.1\ConsoleDiablo.Data.csproj.CoreCompileInputs.cache
